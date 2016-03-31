@@ -1,0 +1,15 @@
+{
+  "name": "react-lite",
+  "description": "an implementation of React that optimizes for small script size",
+  "main": [
+    "dist/react-lite.js"
+  ],
+  "ignore": [
+    "examples/*",
+    "lib/*",
+    "__tests__/*",
+    "build.js",
+    "src/*",
+    "jest/*"
+  ]
+}
