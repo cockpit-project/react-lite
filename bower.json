@@ -1,6 +1,6 @@
 {
-  "name": "react-lite",
-  "description": "an implementation of React that optimizes for small script size",
+  "name": "react-lite-cockpit",
+  "description": "react-lite with open pull requests",
   "main": [
     "dist/react-lite.js"
   ],

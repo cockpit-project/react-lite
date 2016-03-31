@@ -4,6 +4,13 @@
 [![npm](https://img.shields.io/npm/v/react-lite.svg)](https://www.npmjs.com/package/react-lite)
 [![Join the chat at https://gitter.im/Lucifier129/react-lite](https://badges.gitter.im/Lucifier129/react-lite.svg)](https://gitter.im/Lucifier129/react-lite?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+## Temporary fork of react-lite
+
+This fork of term.js has the following open pull requests included:
+
+ * bower.json: https://github.com/Lucifier129/react-lite/pull/53
+ * React.__spread(): https://github.com/Lucifier129/react-lite/pull/52
+
 ## Introduction
 react-lite is an implementation of React that optimizes for small script size.
 ### Framework Size Comparison
