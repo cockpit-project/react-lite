@@ -1,5 +1,5 @@
 {
-  "name": "react-lite",
+  "name": "react-lite-cockpit",
   "version": "0.15.6",
   "description": "an implementation of React that optimizes for small script size",
   "main": "dist/react-lite.common.js",
